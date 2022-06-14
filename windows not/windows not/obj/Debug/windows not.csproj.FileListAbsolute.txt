@@ -1,0 +1,9 @@
+C:\Users\svatoslav\Downloads\nootepad\windows not\windows not\bin\Debug\windows not.exe.config
+C:\Users\svatoslav\Downloads\nootepad\windows not\windows not\bin\Debug\windows not.exe
+C:\Users\svatoslav\Downloads\nootepad\windows not\windows not\bin\Debug\windows not.pdb
+C:\Users\svatoslav\Downloads\nootepad\windows not\windows not\obj\Debug\windows not.csprojAssemblyReference.cache
+C:\Users\svatoslav\Downloads\nootepad\windows not\windows not\obj\Debug\windows_not.Form1.resources
+C:\Users\svatoslav\Downloads\nootepad\windows not\windows not\obj\Debug\windows_not.Properties.Resources.resources
+C:\Users\svatoslav\Downloads\nootepad\windows not\windows not\obj\Debug\windows not.csproj.GenerateResource.cache
+C:\Users\svatoslav\Downloads\nootepad\windows not\windows not\obj\Debug\windows not.exe
+C:\Users\svatoslav\Downloads\nootepad\windows not\windows not\obj\Debug\windows not.pdb
